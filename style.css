@@ -1,6 +1,8 @@
 header {
         background-color: blueviolet;
         color: ghostwhite;
+        display: flex;
+        justify-content: space-around;
 }
 
 .cabecalho.imagem {
