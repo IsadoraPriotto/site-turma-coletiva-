@@ -1,6 +1,6 @@
 header {
-        background-color: rgb(168, 164, 172);
-        color: ghostwhite;
+        background-color: rgb(241, 239, 243);
+        color: rgb(134, 134, 136);
         display: flex;
         justify-content: space-around;
 }
