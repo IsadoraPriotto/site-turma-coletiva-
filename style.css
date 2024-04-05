@@ -7,6 +7,8 @@ header {
         color: rgb(134, 134, 136);
         display: flex;
         justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
 }
 
 .cabecalho.imagem {
